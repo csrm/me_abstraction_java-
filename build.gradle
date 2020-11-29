@@ -15,6 +15,8 @@ dependencies {
 	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.0.1'
 	// https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api
 	compile group: 'javax.xml.bind', name: 'jaxb-api', version: '2.2.4'
+	compile group: 'com.sun.xml.bind', name: 'jaxb-impl', version: '2.3.2'
+	compile group: 'com.sun.xml.bind', name: 'jaxb-core', version: '2.3.0.1'
 
 
 }
